@@ -1,0 +1,16 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: imsmanager.jar
+compressionType: false
+doNotCompress:
+- classes.dex
+- META-INF/MANIFEST.MF
+isFrameworkApk: false
+packageInfo: null
+sdkInfo:
+  minSdkVersion: '28'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework: null
+version: 2.5.1-330294-SNAPSHOT
+versionInfo: null
